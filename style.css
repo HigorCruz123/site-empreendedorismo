@@ -1,6 +1,8 @@
 body{background-color: #ff0404;}
-.cabecalho-imagem{
-
-    width: 20%;
-
+.cabecalho-imagem{width: 20%;
+display:flex;
+justify-content: space-around;
+}
+.cabecalho-lista-item{display:inline-block
+ margin: 0 16px;
 }
