@@ -1,6 +1,15 @@
-body{background-color: #ff0404;}
-.cabecalho-imagem{
-    
-    width: 40%;
+.cabecalho {
+    background-color: #ff0404;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
 
+.cabecalho-imagem{
+    width: 40%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
 }
